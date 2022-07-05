@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 68e0e1a6d6831e643b6de71ca3cf532f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - checkTileIsMoveableScript: {fileID: 11400000, guid: 8076bc1f81b39ba418668d6bd01b5d29, type: 2}
+  - pieceRankRules: {fileID: 11400000, guid: e1adb90e1188a014fa1429b616e57323, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
